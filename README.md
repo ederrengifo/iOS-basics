@@ -1,2 +1,2 @@
 # iOS-basics
-Learning swift 3.0
+Learning Swift 3.0 through simple exercises 
